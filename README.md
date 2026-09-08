@@ -1,4 +1,4 @@
-# img-bed · 个人免费图床
+# ymimg · 个人免费图床
 
 GitHub + jsDelivr 免费图床空间，图片统一存放在 `images/` 目录。
 
