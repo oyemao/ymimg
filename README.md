@@ -5,13 +5,13 @@ GitHub + jsDelivr 免费图床空间，图片统一存放在 `images/` 目录。
 ## jsDelivr CDN 链接格式
 
 ```
-https://cdn.jsdelivr.net/gh/oyemao/img-bed@main/images/<文件名>
+https://cdn.jsdelivr.net/gh/oyemao/ymimg@main/images/<文件名>
 ```
 
 例如上传 `images/2026/hello.png` 后，访问链接为：
 
 ```
-https://cdn.jsdelivr.net/gh/oyemao/img-bed@main/images/2026/hello.png
+https://cdn.jsdelivr.net/gh/oyemao/ymimg@main/images/2026/hello.png
 ```
 
 ## 特性
